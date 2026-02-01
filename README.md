@@ -1,5 +1,5 @@
 # Code-vibes
-#Just texting out
+#Just testing out
 
 <!DOCTYPE html>
 <html lang="en">
